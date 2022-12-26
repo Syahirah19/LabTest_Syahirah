@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LabTest Syahirah</string>
+    <string name="electrical_usage_calculator">Electrical Usage Calculator</string>
+    <string name="hamburger">Hamburger</string>
+    <string name="previous_month_kwh">Previous month kwh</string>
+    <string name="calculate_bill">Calculate Bill!</string>
+    <string name="rm">RM:</string>
+</resources>
